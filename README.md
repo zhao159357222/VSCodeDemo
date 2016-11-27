@@ -1,1 +1,2 @@
 # VSCodeDemo
+使用VsCode的第一个项目说明
